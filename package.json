@@ -12,8 +12,8 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://rios49/github.io/myreact",
   "scripts": {
+    "homepage": "https://rios49/github.io/myreact",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
